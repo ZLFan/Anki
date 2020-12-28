@@ -1,5 +1,5 @@
 # Anki
-用来期末复习的anki牌组
+CNU IE junior用来期末复习的anki牌组
 
 具体文件在master分支下
 下载后导入Anki可直接使用
